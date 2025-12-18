@@ -21,3 +21,6 @@ Here is were the journey beginns.
 
 6.  This our Best Product Deals.
 ![6](https://github.com/user-attachments/assets/d4ec16aa-b5bf-419a-b4e2-016888ac665c)
+
+7. Check our latest recent tech news & Company partners.
+![7](https://github.com/user-attachments/assets/125192db-3664-4ca5-9756-f20f350aca3c)
