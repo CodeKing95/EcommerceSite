@@ -15,3 +15,6 @@ Here is were the journey beginns.
 
 4. Here comes Our Products page, below you can see at least 16 different types of product.
   ![4](https://github.com/user-attachments/assets/eb1e9675-2507-4e12-81fd-ff51356bfe62)
+
+5. Here is the second half of the product page.
+![5](https://github.com/user-attachments/assets/f761956c-50e7-45fa-b08f-800561e67459)
