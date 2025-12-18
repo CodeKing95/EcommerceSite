@@ -41,3 +41,6 @@ Here is were the journey beginns.
 
 ![13](https://github.com/user-attachments/assets/7bdcc24e-7ee1-470f-b8fd-8207991789bd)
 
+13. Fill the checkout page.
+![14](https://github.com/user-attachments/assets/cb71c9c3-29ef-4646-9ef6-bd09a8ee6629)
+
