@@ -37,4 +37,7 @@ Here is were the journey beginns.
 11. Here is the your order cart.
 ![12](https://github.com/user-attachments/assets/87202848-2458-4a20-ba34-500afe5288bc)
 
-12. 
+12. Proceed to Checkout or Empty Cart.
+
+![13](https://github.com/user-attachments/assets/7bdcc24e-7ee1-470f-b8fd-8207991789bd)
+
