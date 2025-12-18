@@ -25,5 +25,15 @@ Here is were the journey beginns.
 7. Check our latest recent tech news & Company partners.
 ![7](https://github.com/user-attachments/assets/125192db-3664-4ca5-9756-f20f350aca3c)
 
-8. Bottom Footer with Informations
+8. Bottom Footer with Informations.
    ![8](https://github.com/user-attachments/assets/bd59f94b-bafc-4a0d-bf73-a61ec0487a15)
+
+9. If you click here on the product, it will take you to the product detail page.
+   ![9](https://github.com/user-attachments/assets/c825a02c-2101-4e20-9938-8130a37c83fb)
+
+10. After clicking add to cart, it will show your cart icon in blue which means your product has been added.
+![11](https://github.com/user-attachments/assets/ae658f59-dc4f-4ce0-b2c7-ae560d714716)
+
+11. Here is the your order cart.
+![12](https://github.com/user-attachments/assets/87202848-2458-4a20-ba34-500afe5288bc)
+
