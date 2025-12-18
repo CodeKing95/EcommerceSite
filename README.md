@@ -24,3 +24,6 @@ Here is were the journey beginns.
 
 7. Check our latest recent tech news & Company partners.
 ![7](https://github.com/user-attachments/assets/125192db-3664-4ca5-9756-f20f350aca3c)
+
+8. Bottom Footer with Informations
+   ![8](https://github.com/user-attachments/assets/bd59f94b-bafc-4a0d-bf73-a61ec0487a15)
