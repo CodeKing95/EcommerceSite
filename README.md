@@ -18,3 +18,6 @@ Here is were the journey beginns.
 
 5. Here is the second half of the product page.
 ![5](https://github.com/user-attachments/assets/f761956c-50e7-45fa-b08f-800561e67459)
+
+6.  This our Best Product Deals.
+![6](https://github.com/user-attachments/assets/d4ec16aa-b5bf-419a-b4e2-016888ac665c)
