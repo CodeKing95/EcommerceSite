@@ -12,3 +12,6 @@ Here is were the journey beginns.
 
 3. Here it show's you the information about the policy and a winter sale deal.
  ![3](https://github.com/user-attachments/assets/fe437e60-cb64-4f02-ac78-4b0d883106a0)
+
+4. Here comes Our Products page, below you can see at least 16 different types of product.
+  ![4](https://github.com/user-attachments/assets/eb1e9675-2507-4e12-81fd-ff51356bfe62)
