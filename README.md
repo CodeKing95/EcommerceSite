@@ -4,4 +4,5 @@ This is an ecommerce project built in React & Typescript, as part of the final p
 
 Here is were the journey beginns.
 
+1. This is the main page of the ecommerce website.
 ![1](https://github.com/user-attachments/assets/6292e78c-4343-4cf9-8aee-d2945ea6d2f8)
