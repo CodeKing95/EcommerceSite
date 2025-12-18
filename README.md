@@ -63,3 +63,20 @@ Here is were the journey beginns.
 15. Here is the fill out the Payment Page.
 
 ![16](https://github.com/user-attachments/assets/98f3cd0d-34b0-4167-8e99-501ff556583c)
+
+16. After payment, you will come to Confirmation Page.
+
+![17](https://github.com/user-attachments/assets/5423f760-2c22-46e1-b45d-ad3ec9819489)
+
+
+17. Your Product ordered and Order Status.
+
+![18](https://github.com/user-attachments/assets/96b65592-2b74-42f9-a5a4-da2b9d5239f5)
+
+
+18. Back to Home Page.
+
+![19](https://github.com/user-attachments/assets/ab9be325-fe27-4199-8bc7-bc36f3308bdf)
+
+
+
