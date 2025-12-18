@@ -35,5 +35,6 @@ Here is were the journey beginns.
 ![11](https://github.com/user-attachments/assets/ae658f59-dc4f-4ce0-b2c7-ae560d714716)
 
 11. Here is the your order cart.
+
 ![12](https://github.com/user-attachments/assets/87202848-2458-4a20-ba34-500afe5288bc)
 
