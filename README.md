@@ -1,5 +1,5 @@
 # TechStar Ecommerce Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an ecommerce project built in React & Typescript, as part of the final project in Coding Bootcamp.
 
 
