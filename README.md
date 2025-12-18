@@ -9,3 +9,6 @@ Here is were the journey beginns.
 
 2. On here you can see different types of products on display.
 ![2](https://github.com/user-attachments/assets/9ac89b45-b159-4bf9-a0a9-a4c7d47a194f)
+
+3. Here it show's you the information about the policy and a winter sale deal.
+ ![3](https://github.com/user-attachments/assets/fe437e60-cb64-4f02-ac78-4b0d883106a0)
