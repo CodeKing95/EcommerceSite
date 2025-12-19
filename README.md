@@ -19,6 +19,9 @@ This is an ecommerce project built in React & Typescript, as part of the final p
 - Make Payment
 - Confirmation Order
 
+📍 The Process 
+I've been on a mission to make something amazing with my favorite gadget products. So I have decided why not make a ecommerce out of it.
+
 <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
 
