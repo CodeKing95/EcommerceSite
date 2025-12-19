@@ -28,7 +28,7 @@ I am very pleased with this project which I have built and got many positive fee
 1. Clone the repository
 2. Install dependencies: npm install
 3. Run development server: npm run dev
-4. Open the http://localhost: in your browser
+4. Open the http://localhost:3000. in your browser
 
 # Preview Below 
 <img width="50" height="50" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
