@@ -7,6 +7,7 @@ This is a modern e-commerce application project built using  React & Typescript.
 - TypeScript
 - Vite
 - JavaScript
+- CSS3
 
 # 🚀 Features
 - Navigation & Search
