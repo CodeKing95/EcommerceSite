@@ -20,7 +20,8 @@ This is an ecommerce project built in React & Typescript, as part of the final p
 - Confirmation Order
 
 # 📍 The Process 
-I've been on a mission to make something amazing with my favorite gadget products. So I have decided why not make a ecommerce out of it.
+I've been on a mission to make something amazing with my favorite gadget products. So I have decided why not make a ecommerce out of it. It has different type of products such as gaming consoles, laptops, mobile phone, monitor, games etc.
+I am very pleased with this project which I have built and got many positive feedbacks from my team.
 
 <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
