@@ -2,10 +2,8 @@
 
 
 # Technologies✨
- • React JS
- • TypeScript
- • Vite
- • JavaScript
+• React JS
+• TypeScript
 
 <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
