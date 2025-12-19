@@ -33,6 +33,21 @@ I am very pleased with this project which I have built and got many positive fee
 # Preview Below 
 <img width="50" height="50" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
+# 🎯 Purpose of the Project
+The main purpose of developing this project is to:
+- Applying React JS & TypeScript conecpts which I have learned during the coding bootcamp course.
+- Practice building scalable and maintainable frontend applications.
+- Also to demonstrate a real-world e-commerce web application functionality.
+
+# 📚 What I Learned so far
+- Building React applications with TypeScript.
+- State management patterns.
+- Writing nice and neat, maintainable code.
+
+# 🔮Future Improvements
+- Add a user authentication.
+- Backend integration.
+- 
 
 Here is were the journey beginns.
 
