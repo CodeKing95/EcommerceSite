@@ -8,6 +8,17 @@
 - Vite
 - JavaScript
 
+# 🚀 Features
+- Navigation & Search
+- Product Pages
+- Product Details
+- Add to Cart
+- Increase or decrease Product
+- Checkout Information
+- Proceed to checkout or Empty Cart
+- Make Payment
+- Confirmation Order
+
 <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
 This is an ecommerce project built in React & Typescript, as part of the final project in Coding Bootcamp.
