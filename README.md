@@ -23,6 +23,12 @@ This is an ecommerce project built in React & Typescript, as part of the final p
 I've been on a mission to make something amazing with my favorite gadget products. So I have decided why not make a ecommerce out of it. It has different type of products such as gaming consoles, laptops, mobile phone, monitor, games etc.
 I am very pleased with this project which I have built and got many positive feedbacks from my team.
 
+# 🚦 Running the Project
+1. Clone the repository
+2. Install dependencies: npm install
+3. Run development server: npm run dev
+4. Open the http://localhost: in your browser
+
 <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
 
