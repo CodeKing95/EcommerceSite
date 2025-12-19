@@ -1,5 +1,5 @@
- # TechStar Ecommerce Site
-This is an ecommerce project built in React & Typescript, as part of the final project in Coding Bootcamp.
+ # 🛒 E-Commerce Web Application
+This is a modern e-commerce application project built using  React & Typescript. This was a final project for the Coding Bootcamp, it demonstrate best practices in frontend development, componnent-based architecture, and state management.
 
 # Technologies✨
 
