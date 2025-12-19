@@ -30,8 +30,6 @@ I am very pleased with this project which I have built and got many positive fee
 3. Run development server: npm run dev
 4. Open the http://localhost:3000. in your browser
 
-# Preview Below 
-<img width="50" height="50" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
 # 🎯 Purpose of the Project
 The main purpose of developing this project is to:
@@ -47,7 +45,9 @@ The main purpose of developing this project is to:
 # 🔮Future Improvements
 - Add a user authentication.
 - Backend integration.
-- 
+
+# Preview Below 
+<img width="50" height="50" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /> 
 
 Here is were the journey beginns.
 
