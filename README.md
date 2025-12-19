@@ -1,5 +1,5 @@
-                       # TechStar Ecommerce Site
-<img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" />
+  <img width="150" height="150" alt="shopping-online" src="https://github.com/user-attachments/assets/147cb83e-543f-45ca-9804-aa8f802b9968" /># TechStar Ecommerce Site
+
 
 
 This is an ecommerce project built in React & Typescript, as part of the final project in Coding Bootcamp.
