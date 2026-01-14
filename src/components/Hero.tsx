@@ -6,7 +6,7 @@ import Image3 from "../assets/website/phones.jpg";
 
 
 const HeroData = [
-    {
+    { 
         id: 1,
         img: Image1,
         subtitle: "Razer",
