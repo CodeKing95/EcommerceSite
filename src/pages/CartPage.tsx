@@ -1,6 +1,6 @@
 import { useSelector, useDispatch } from "react-redux";
 import "./CartPage.css"; // ← Add this
-import {
+import { 
   increaseQty,
   decreaseQty,
   removeItem,
