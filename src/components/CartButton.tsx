@@ -1,4 +1,4 @@
-import { FaOpencart } from "react-icons/fa";
+import { FaOpencart } from "react-icons/fa"; 
 import { useSelector } from "react-redux"; 
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
